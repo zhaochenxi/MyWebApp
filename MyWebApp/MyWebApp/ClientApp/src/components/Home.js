@@ -20,8 +20,8 @@ export class Home extends Component {
           <li><strong>Efficient production builds</strong>. In production mode, development-time features are disabled, and your <code>dotnet publish</code> configuration produces minified, efficiently bundled JavaScript files.</li>
         </ul>
         <video width="320" height="240" controls="controls">
-        <source src="../../asset/video/example.avi" type="video/avi"/>
-                    Your browser does not support the video tag.
+        <source src="/video/example.mp4" type="video/mp4"/>
+                    Your browser does not support the video tag.ok
         </video>
       </div>
     );
